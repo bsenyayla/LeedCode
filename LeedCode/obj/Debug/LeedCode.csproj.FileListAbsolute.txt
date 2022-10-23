@@ -1,0 +1,6 @@
+C:\Users\BAHADIR\source\repos\NewRepo\ConsoleApplication1\LeedCode\bin\Debug\LeedCode.exe.config
+C:\Users\BAHADIR\source\repos\NewRepo\ConsoleApplication1\LeedCode\bin\Debug\LeedCode.exe
+C:\Users\BAHADIR\source\repos\NewRepo\ConsoleApplication1\LeedCode\bin\Debug\LeedCode.pdb
+C:\Users\BAHADIR\source\repos\NewRepo\ConsoleApplication1\LeedCode\obj\Debug\LeedCode.csprojResolveAssemblyReference.cache
+C:\Users\BAHADIR\source\repos\NewRepo\ConsoleApplication1\LeedCode\obj\Debug\LeedCode.exe
+C:\Users\BAHADIR\source\repos\NewRepo\ConsoleApplication1\LeedCode\obj\Debug\LeedCode.pdb

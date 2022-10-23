@@ -1,0 +1,6 @@
+C:\Users\BAHADIR\Source\Repos\NewRepo\ConsoleApplication1\KForceHPE\bin\Debug\KForceHPE.exe.config
+C:\Users\BAHADIR\Source\Repos\NewRepo\ConsoleApplication1\KForceHPE\bin\Debug\KForceHPE.exe
+C:\Users\BAHADIR\Source\Repos\NewRepo\ConsoleApplication1\KForceHPE\bin\Debug\KForceHPE.pdb
+C:\Users\BAHADIR\Source\Repos\NewRepo\ConsoleApplication1\KForceHPE\obj\Debug\KForceHPE.csprojResolveAssemblyReference.cache
+C:\Users\BAHADIR\Source\Repos\NewRepo\ConsoleApplication1\KForceHPE\obj\Debug\KForceHPE.exe
+C:\Users\BAHADIR\Source\Repos\NewRepo\ConsoleApplication1\KForceHPE\obj\Debug\KForceHPE.pdb
