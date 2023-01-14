@@ -1,0 +1,8 @@
+C:\Depo\gitLeedCode\LeedCode\KaratWalmart\bin\Debug\KaratWalmart.exe.config
+C:\Depo\gitLeedCode\LeedCode\KaratWalmart\bin\Debug\KaratWalmart.exe
+C:\Depo\gitLeedCode\LeedCode\KaratWalmart\bin\Debug\KaratWalmart.pdb
+C:\Depo\gitLeedCode\LeedCode\KaratWalmart\obj\Debug\KaratWalmart.csproj.AssemblyReference.cache
+C:\Depo\gitLeedCode\LeedCode\KaratWalmart\obj\Debug\KaratWalmart.csproj.SuggestedBindingRedirects.cache
+C:\Depo\gitLeedCode\LeedCode\KaratWalmart\obj\Debug\KaratWalmart.csproj.CoreCompileInputs.cache
+C:\Depo\gitLeedCode\LeedCode\KaratWalmart\obj\Debug\KaratWalmart.exe
+C:\Depo\gitLeedCode\LeedCode\KaratWalmart\obj\Debug\KaratWalmart.pdb

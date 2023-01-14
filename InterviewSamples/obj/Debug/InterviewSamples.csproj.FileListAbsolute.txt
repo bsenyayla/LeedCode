@@ -7,3 +7,8 @@ C:\Users\BAHADIR\Source\Repos\NewRepo\ConsoleApplication1\InterviewSamples\obj\D
 C:\Depo\gitLeedCode\LeedCode\InterviewSamples\bin\Debug\InterviewSamples.exe.config
 C:\Depo\gitLeedCode\LeedCode\InterviewSamples\obj\Debug\InterviewSamples.exe
 C:\Depo\gitLeedCode\LeedCode\InterviewSamples\obj\Debug\InterviewSamples.pdb
+C:\Depo\gitLeedCode\LeedCode\InterviewSamples\bin\Debug\InterviewSamples.exe
+C:\Depo\gitLeedCode\LeedCode\InterviewSamples\bin\Debug\InterviewSamples.pdb
+C:\Depo\gitLeedCode\LeedCode\InterviewSamples\obj\Debug\InterviewSamples.csproj.AssemblyReference.cache
+C:\Depo\gitLeedCode\LeedCode\InterviewSamples\obj\Debug\InterviewSamples.csproj.SuggestedBindingRedirects.cache
+C:\Depo\gitLeedCode\LeedCode\InterviewSamples\obj\Debug\InterviewSamples.csproj.CoreCompileInputs.cache

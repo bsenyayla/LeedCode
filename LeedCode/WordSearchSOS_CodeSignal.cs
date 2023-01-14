@@ -28,10 +28,6 @@ namespace LeedCode
 
 
         public int WordCount(char[,] board, string word) {
-
-            int x = 3;
-            x.ToString()
-
             int retVal = 0;
             int colCount = board.GetLength(0) -1;
             int rowCount = (board.Length / colCount)-1;

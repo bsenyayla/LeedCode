@@ -13,18 +13,33 @@ namespace InterviewSamples
             Console.WriteLine("== Fatma Operations ==============================================================================================");
 
 
-            DSStringArray[] drr = new DSStringArray[4];
+            //DSStringArray[] drr = new DSStringArray[4];
 
-            for (int i = 0; i < drr.Length; i++) {
-                drr[i] = new DSStringArray();
-            }
+            //for (int i = 0; i < drr.Length; i++) {
+            //    drr[i] = new DSStringArray();
+            //}
 
 
             RemoveRepeatedStringFromStringArray(new String[] { "bir","üç", "iki", "dört", "iki", "bir", "dört" });
         }
 
 
+
+
         public void RemoveRepeatedStringFromStringArray(String[] myStringArray) {
+            Console.WriteLine("d");
+            //better Way
+            String[] listStr=myStringArray.GroupBy(x => x)
+                .Where(grp => grp.Count() < 2)
+                .Select(grp => grp.Key).ToArray();
+
+
+/*
+ Company
+    .GroupBy(c => c.Name)
+    .Where(grp => grp.Count() > 1)
+    .Select(grp => grp.Key);
+ */
 
             List<String> list = new List<string>();
 
