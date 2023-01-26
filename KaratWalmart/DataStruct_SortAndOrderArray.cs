@@ -55,10 +55,10 @@ namespace KaratWalmart
         public int KthSmallest(int k) {
             if (k < 0 || k > arrMaxLen) return -1;
 
-            
             return mArr[k - 1];
         }
 
 
     }
 }
+

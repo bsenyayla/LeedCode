@@ -43,7 +43,7 @@ namespace KaratWalmart
 
         /*
            timecomp++;
-                        indexNumber = Array.IndexOf(nums, left,i+1);
+           indexNumber = Array.IndexOf(nums, left,i+1);
          */
 
         public int[] ThirdWay(int[] nums, out int timeCost)

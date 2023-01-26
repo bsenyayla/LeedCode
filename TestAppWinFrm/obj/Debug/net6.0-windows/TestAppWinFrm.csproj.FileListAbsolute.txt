@@ -1,0 +1,17 @@
+C:\Depo\gitLeedCode\LeedCode\TestAppWinFrm\bin\Debug\net6.0-windows\TestAppWinFrm.exe
+C:\Depo\gitLeedCode\LeedCode\TestAppWinFrm\bin\Debug\net6.0-windows\TestAppWinFrm.deps.json
+C:\Depo\gitLeedCode\LeedCode\TestAppWinFrm\bin\Debug\net6.0-windows\TestAppWinFrm.runtimeconfig.json
+C:\Depo\gitLeedCode\LeedCode\TestAppWinFrm\bin\Debug\net6.0-windows\TestAppWinFrm.dll
+C:\Depo\gitLeedCode\LeedCode\TestAppWinFrm\bin\Debug\net6.0-windows\TestAppWinFrm.pdb
+C:\Depo\gitLeedCode\LeedCode\TestAppWinFrm\obj\Debug\net6.0-windows\TestAppWinFrm.csproj.AssemblyReference.cache
+C:\Depo\gitLeedCode\LeedCode\TestAppWinFrm\obj\Debug\net6.0-windows\TestAppWinFrm.Form1.resources
+C:\Depo\gitLeedCode\LeedCode\TestAppWinFrm\obj\Debug\net6.0-windows\TestAppWinFrm.csproj.GenerateResource.cache
+C:\Depo\gitLeedCode\LeedCode\TestAppWinFrm\obj\Debug\net6.0-windows\TestAppWinFrm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Depo\gitLeedCode\LeedCode\TestAppWinFrm\obj\Debug\net6.0-windows\TestAppWinFrm.AssemblyInfoInputs.cache
+C:\Depo\gitLeedCode\LeedCode\TestAppWinFrm\obj\Debug\net6.0-windows\TestAppWinFrm.AssemblyInfo.cs
+C:\Depo\gitLeedCode\LeedCode\TestAppWinFrm\obj\Debug\net6.0-windows\TestAppWinFrm.csproj.CoreCompileInputs.cache
+C:\Depo\gitLeedCode\LeedCode\TestAppWinFrm\obj\Debug\net6.0-windows\TestAppWinFrm.dll
+C:\Depo\gitLeedCode\LeedCode\TestAppWinFrm\obj\Debug\net6.0-windows\refint\TestAppWinFrm.dll
+C:\Depo\gitLeedCode\LeedCode\TestAppWinFrm\obj\Debug\net6.0-windows\TestAppWinFrm.pdb
+C:\Depo\gitLeedCode\LeedCode\TestAppWinFrm\obj\Debug\net6.0-windows\TestAppWinFrm.genruntimeconfig.cache
+C:\Depo\gitLeedCode\LeedCode\TestAppWinFrm\obj\Debug\net6.0-windows\ref\TestAppWinFrm.dll

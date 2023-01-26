@@ -52,6 +52,7 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ReverseString.cs" />
+    <Compile Include="RomanIntToRoman.cs" />
     <Compile Include="RomanToInt.cs" />
     <Compile Include="RotateArray_189.cs" />
     <Compile Include="SampleBigDatas.cs" />

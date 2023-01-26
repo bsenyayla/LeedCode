@@ -66,7 +66,6 @@ namespace KaratWalmart
                 }
                 else
                 {
-
                     int indexNo = Convert.ToInt16(ht[nums[i]]);
 
                     //Console.WriteLine("bir:[" +indexNo + "]:" + nums[indexNo]);
@@ -76,11 +75,11 @@ namespace KaratWalmart
                     return new int[] { indexNo,i};
                     //sonuç çıktı demek
                 }
-
             }
 
             return new int[] {  };
         }
+
 
         public int[] OptimumWay(int[] nums, int target, out int timecomp)
         {
