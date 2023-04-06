@@ -48,6 +48,14 @@
     <Compile Include="DivideTwoIntegers_29.cs" />
     <Compile Include="FindIsPrime.cs" />
     <Compile Include="FindMinNumber.cs" />
+    <Compile Include="GenelKonular\Delegate_00\DosyaIslemleri.cs" />
+    <Compile Include="GenelKonular\Delegate_00\SonucArgs.cs" />
+    <Compile Include="GenelKonular\Delegate_00\Start.cs" />
+    <Compile Include="GenelKonular\E_Delegate.cs" />
+    <Compile Include="SingleLinkedList\Node.cs" />
+    <Compile Include="SingleLinkedList\nodeLinkedList.cs" />
+    <Compile Include="SonraBak\FatmaRemoveDoubleString.cs" />
+    <Compile Include="SonraBak\StringOperations.cs" />
     <Compile Include="MedianOfTwoSortedArrays_4.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

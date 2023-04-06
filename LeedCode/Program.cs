@@ -1,4 +1,5 @@
-﻿using System;
+﻿using LeedCode.GenelKonular;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -11,7 +12,13 @@ namespace LeedCode
 
         static void Main(string[] args) {
 
-            RomanIntToRoman fnRoman = new RomanIntToRoman();
+
+            E_Delegate fnDelegate = new E_Delegate();
+
+            GenelKonular.Delegate_00.Start fnStart=new GenelKonular.Delegate_00.Start();
+
+
+            //RomanIntToRoman fnRoman = new RomanIntToRoman();
             //CheckPalindrome_CodeSignal fnValidPalindrome = new CheckPalindrome_CodeSignal();
             //FindMinNumber fnMinNumber = new FindMinNumber();
             //MedianOfTwoSortedArrays_4 fnMedianOfTwoSortedArrays = new MedianOfTwoSortedArrays_4();

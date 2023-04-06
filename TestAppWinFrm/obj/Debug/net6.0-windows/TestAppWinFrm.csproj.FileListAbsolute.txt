@@ -15,3 +15,9 @@ C:\Depo\gitLeedCode\LeedCode\TestAppWinFrm\obj\Debug\net6.0-windows\refint\TestA
 C:\Depo\gitLeedCode\LeedCode\TestAppWinFrm\obj\Debug\net6.0-windows\TestAppWinFrm.pdb
 C:\Depo\gitLeedCode\LeedCode\TestAppWinFrm\obj\Debug\net6.0-windows\TestAppWinFrm.genruntimeconfig.cache
 C:\Depo\gitLeedCode\LeedCode\TestAppWinFrm\obj\Debug\net6.0-windows\ref\TestAppWinFrm.dll
+C:\Depo\gitLeedCode\LeedCode\TestAppWinFrm\bin\Debug\net6.0-windows\System.Net.Http.Formatting.dll
+C:\Depo\gitLeedCode\LeedCode\TestAppWinFrm\bin\Debug\net6.0-windows\System.Web.Http.dll
+C:\Depo\gitLeedCode\LeedCode\TestAppWinFrm\bin\Debug\net6.0-windows\System.Web.Http.WebHost.dll
+C:\Depo\gitLeedCode\LeedCode\TestAppWinFrm\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Depo\gitLeedCode\LeedCode\TestAppWinFrm\bin\Debug\net6.0-windows\Newtonsoft.Json.Bson.dll
+C:\Depo\gitLeedCode\LeedCode\TestAppWinFrm\obj\Debug\net6.0-windows\TestAppWinFrm.csproj.CopyComplete
